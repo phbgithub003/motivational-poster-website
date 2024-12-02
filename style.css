@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width: 50%;
+    margin: 50px auto;
+}
+
+img{
+    border: 5px solid white;
+    
+}
+
+.magic-word{
+    font-family: Regular Libre Baskerville;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.sentence{
+    color: white;
+    text-align: center;
+}
